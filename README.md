@@ -110,8 +110,14 @@ The analysis uses a pizza sales dataset (`sales.csv`) containing information abo
 ## Contributing
 Feel free to fork this project and submit pull requests for any improvements.
 
-## Author
-[SANDANIAINA Tsinjo Nantosoa]
+## 🌐 Réseaux & Portfolio
+
+Vous pouvez me retrouver et consulter mes projets sur les plateformes suivantes :
+
+[![DataCamp](https://img.shields.io/badge/DataCamp-02B875?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/sandaniainatsinjonantosoa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandaniaina-tsinjo-nantosoa-b6209a330/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tsinjonanto.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TsinjoNantosoa)
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
